@@ -19,4 +19,4 @@ My pronouns are he/him.
 I love music and photography. 
 
 ## 🎓 Education:
-I'm currently pursuing a Bachelor's degree in Computer Programming at the University of Central Florida (UCF) and will be graduating in 2026. Through my studies, I've become proficient in Java and C++, and I'm continuously expanding my knowledge in various other programming languages and technologies.
+I'm currently pursuing a Bachelor's degree in Computer Science at the University of Central Florida (UCF) and will be graduating in 2026. Through my studies, I've become proficient in Java and C++, and I'm continuously expanding my knowledge in various other programming languages and technologies.
